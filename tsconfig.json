@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "@leandrosoaresls/my-library": [
+        "dist/leandrosoaresls/my-library"
+      ],
+      "@leandrosoaresls/my-library/*": [
+        "dist/leandrosoaresls/my-library/*"
+      ]
+    }
   }
 }

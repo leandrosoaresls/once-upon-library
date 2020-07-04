@@ -1,0 +1,3 @@
+[submodule "projects/leandrosoaresls/my-library"]
+	path = projects/leandrosoaresls/my-library
+	url = git@github.com:leandrosoaresls/my-library.git
